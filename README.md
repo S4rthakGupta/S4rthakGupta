@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **s4rthak.gupta@gmail.com, sarthkgupta9814@gmail.com**
+- 📫 How to reach me **s4rthak.gupta@gmail.com, sarthakgupta9814@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
