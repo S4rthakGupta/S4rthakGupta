@@ -5,7 +5,7 @@
 <p align="left"> 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **MERN**
 
